@@ -43,7 +43,7 @@ const Input = () => {
         )}
         <button
           onClick={handleClick}
-          className="bg-desaturated-red w-12 flex items-center justify-center rounded-3xl"
+          className="bg-desaturated-red shadow-md shadow-soft-red hover:w-20 transition-all w-12 flex items-center justify-center rounded-3xl"
         >
           <Image
             src="/images/icon-arrow.svg"
