@@ -13,7 +13,7 @@ const HeroImage = () => {
       />
       <Image
         src="/images/hero-desktop.jpg"
-        className="hidden md:block"
+        className="hidden md:block h-screen w-full object-cover"
         alt="hero image"
         width={610}
         height={800}
