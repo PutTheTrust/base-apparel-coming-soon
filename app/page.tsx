@@ -10,13 +10,13 @@ export default function Home() {
         <Header />
       </div>
       <div className="md:flex flex-row-reverse">
-        <div className=" md:block md:w-2/5">
+        <div className=" md:block md:w-2/5 ">
           <HeroImage />
         </div>
 
         <div className="md:ml-[167px] md:flex-1">
           <div className="mt-16 mx-8">
-            <div className="hidden md:block mb-[138px]">
+            <div className="hidden md:block mb-[138px] mt-24">
               <Header />
             </div>
             <h1 className="text-5xl uppercase font-semibold text-center md:text-start md:text-8xl">

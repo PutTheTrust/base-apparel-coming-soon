@@ -17,7 +17,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={josefin_Sans.className}>
         {children}
-        <footer className="mt-8">
+        {/* <footer className="mt-8">
           <p className="attribution">
             Challenge by{" "}
             <a
@@ -26,9 +26,9 @@ export default function RootLayout({
             >
               Frontend Mentor
             </a>
-            . Coded by <a href="#">Your Name Here</a>.
+            . Coded by <a href="#">PutTheTrust</a>.
           </p>
-        </footer>
+        </footer> */}
       </body>
     </html>
   );
