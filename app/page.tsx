@@ -20,15 +20,17 @@ export default function Home() {
               <Header />
             </div>
             <h1 className="text-5xl uppercase font-semibold text-center md:text-start md:text-8xl">
-              <span className="font-light text-desaturated-red">We're</span>
+              <span className="font-light text-desaturated-red">
+                We&apos;re
+              </span>
               <br /> coming
               <br /> soon
             </h1>
 
             <p className="text-center text-sm mt-8 text-desaturated-red md:max-w-[425px] md:text-start">
-              Hello fellow shoppers! We're currently building our new fashion
-              store. Add your email below to stay up-to-date with announcements
-              and our launch deals.
+              Hello fellow shoppers! We&apos;re currently building our new
+              fashion store. Add your email below to stay up-to-date with
+              announcements and our launch deals.
             </p>
 
             <div className="md:max-w-[425px] ">
